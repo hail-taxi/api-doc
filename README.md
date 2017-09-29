@@ -1,2 +1,2 @@
 # api-doc
-The apiary documentation for hail-taxi API
+The apiary documentation for Pumpkin API
